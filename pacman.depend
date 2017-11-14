@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509742063 source:/home/naeem/Documents/pacman/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
